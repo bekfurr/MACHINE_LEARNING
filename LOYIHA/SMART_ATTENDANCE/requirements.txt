@@ -1,0 +1,11 @@
+REQUIREMENTS:
+openv-python
+cmake
+dlib==19.24.6
+face_recognition
+numpy
+tkinter
+pandas
+numpy
+os 
+threading
